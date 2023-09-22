@@ -22,7 +22,7 @@
     font-size: 90px;
     height: 60px;
     font-weight: 50;
-    color: black;
+    color:  #847488;;
   }
   
   .headerContainer p {
@@ -73,6 +73,7 @@
       background-color: #121619;
       color: white;
     }
+  
   
     .headerContainer h1 {
       font-size: 40px;
