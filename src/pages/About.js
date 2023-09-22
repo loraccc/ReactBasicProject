@@ -1,5 +1,5 @@
 import React from "react";
-import carset from "../assets/carset.webp";
+import carset from "../assets/carset.png";
 import "../styles/About.css";
 
 function about() {
