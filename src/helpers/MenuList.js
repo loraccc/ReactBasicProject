@@ -13,7 +13,7 @@ export const MenuList= [
     price: 12000,
 },
 {
-    name: 'Vette',
+    name: 'Corvette',
     image: vette,
     price: 10000,
 },
